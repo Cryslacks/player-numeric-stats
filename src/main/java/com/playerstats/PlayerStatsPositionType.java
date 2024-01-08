@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.playerstats;
+package com.playerstats;
 
 public enum PlayerStatsPositionType {
     None,

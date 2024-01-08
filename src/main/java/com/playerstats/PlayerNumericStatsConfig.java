@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.playerstats;
+package com.playerstats;
 
 import net.runelite.client.config.Alpha;
 import net.runelite.client.config.Config;

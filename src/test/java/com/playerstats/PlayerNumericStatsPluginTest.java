@@ -7,7 +7,7 @@ public class PlayerNumericStatsPluginTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(net.runelite.client.plugins.playerstats.PlayerNumericStatsPlugin.class);
+		ExternalPluginManager.loadBuiltin(PlayerNumericStatsPlugin.class);
 		RuneLite.main(args);
 	}
 }

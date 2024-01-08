@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.playerstats;
+package com.playerstats;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
